@@ -39,7 +39,7 @@ public class StudentInfo {
         double gpa=2.8;
         String schoolName="MIT";
         String gradeLevel="Undergraduate";
-        String studentId="A125";
+        //String studentId="A125";
 
         System.out.println("The student's name is " +studentName);
         System.out.println("Gender is " +gender);
